@@ -11,7 +11,7 @@ function App() {
           Work in progress, come visit soon!
         </p>
         <p>
-          Feel free to check out my <a href='https://www.linkedin.com/in/shreyan--das/'> LinkedIn </a> to learn more about me!
+          Feel free to check out my <a href='https://www.linkedin.com/in/shreyan--das/'>LinkedIn</a> to learn more about me!
         </p>
       </header>
     </div>
